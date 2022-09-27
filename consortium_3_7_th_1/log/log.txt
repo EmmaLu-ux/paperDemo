@@ -1,0 +1,4 @@
+2021-11-15 19:10:26,310 - log_test.py[line:35] - INFO: 这是 logger info message
+2021-11-15 19:10:26,310 - log_test.py[line:36] - WARNING: 这是 logger warning message
+2021-11-15 19:10:26,310 - log_test.py[line:37] - ERROR: 这是 logger error message
+2021-11-15 19:10:26,310 - log_test.py[line:38] - CRITICAL: 这是 logger critical message
